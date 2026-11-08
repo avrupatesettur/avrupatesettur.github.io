@@ -1,0 +1,1 @@
+Avrupa Tesettür web sitesi. Ana sayfa Türkçe: /index.html. Hollandaca: /nl/index.html. İngilizce: /en/index.html. ZIP içindeki tüm dosyaları aynı klasör yapısıyla hosting hesabınıza yükleyin. SEO sonuçları için gerçek alan adında yayınlayıp Google Search Console üzerinden indeksleme isteyin. Ürün kategorileri Instagram hesabına yönlendirir.
